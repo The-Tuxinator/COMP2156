@@ -1,0 +1,20 @@
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": "COMP2156 Lab Excercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Tuxinator/COMP2156.git"
+  },
+  "keywords": [],
+  "author": "Andrew James",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-Tuxinator/COMP2156/issues"
+  },
+  "homepage": "https://github.com/The-Tuxinator/COMP2156#readme"
+}
